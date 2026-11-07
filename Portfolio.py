@@ -160,7 +160,16 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-
+# المشروع التاني: Smart Wearable
+st.markdown("""
+<div class="card">
+    <h3>⌚ Smart Wearable Health Ecosystem (Digital Twin)</h3>
+    <p><strong>Interactive Health Monitoring & AI Diagnostics Demo</strong></p>
+    <p>نظام ذكي متكامل يحاكي عمل الساعات الذكية (Smartwatches) وتطبيقات الهواتف. يعرض قراءات حية لمعدل ضربات القلب ونسبة الأكسجين (SpO2) مع رسومات بيانية تفاعلية (Live Charts). النظام مزود بذكاء اصطناعي (AI Assistant) يقدم توصيات فورية بناءً على حالة المستخدم (نوم، إجهاد، سقوط)، مع نظام تنبيه طوارئ يرسل رسالة واتساب (WhatsApp SOS) في الحالات الحرجة.</p>
+    <p><strong>Tech Stack:</strong> Python, Streamlit, HTML/CSS/JS, Chart.js, AI Integration.</p>
+    <a href="https://health-wearable-zkab5zpnyfvxty6hy35984.streamlit.app/" target="_blank"><button style="background-color: #00f3ff; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">Live Wearable Demo 🚀</button></a>
+</div>
+""", unsafe_allow_html=True)
 # ==========================================
 # 7. الفوتر
 # ==========================================
