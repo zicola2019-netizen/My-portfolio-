@@ -156,7 +156,7 @@ st.markdown("""
     <p><strong>An IoT-based Smart Safety System</strong></p>
     <p>نظام متكامل لمراقبة صحة العمال والبيئة المحيطة. بيعتمد على ESP32 بيبعت بيانات الحساسات (حرارة، غاز، نبضات) لسيرفر ThingSpeak. تم بناء Dashboard تفاعلية بـ Streamlit فيها خريطة GPS، وتم دمج الذكاء الاصطناعي (Llama 3) لتحليل البيانات وكتابة تقارير وتوصيات طبية فورية، مع نظام تنبيه طوارئ يبعت رسالة واتساب بالموقع.</p>
     <p><strong>Tech Stack:</strong> Python, ESP32, ThingSpeak, Streamlit, Plotly, Folium, Groq API.</p>
-    <a href="https://humanity-environmental-station.streamlit.app/" target="_blank"><button style="background-color: #00f3ff; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">Live Demo 🚀</button></a>
+    <a href="https://humanity-environmental-station-kd2pbxknqecj97ylkk7dpa.streamlit.app/" target="_blank"><button style="background-color: #00f3ff; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">Live Demo 🚀</button></a>
 </div>
 """, unsafe_allow_html=True)
 
