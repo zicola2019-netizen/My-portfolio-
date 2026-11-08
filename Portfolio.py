@@ -78,7 +78,7 @@ with col1:
     # أزرار التواصل
     col_btn1, col_btn2, col_btn3 = st.columns(3)
     with col_btn1:
-        st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zicola2019-netzen)")
+        st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zicola2019-netizen)")
     with col_btn2:
         st.markdown("[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-youssef-zicola)")
     with col_btn3:
